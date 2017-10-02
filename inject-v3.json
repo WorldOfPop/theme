@@ -1,6 +1,6 @@
 {
     "room":                     "World Of Pop | Brasil",
-    "css":                      "https://rawgit.com/WorldOfPop/theme/master/import-v1.css",
+    "css":                      "https://worldofpop.tk/theme/import-v2.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
