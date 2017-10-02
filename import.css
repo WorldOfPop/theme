@@ -2,3 +2,6 @@
 
 @import url("https://rawgit.com/WorldOfPop/theme/master/sobre.css");
 @import url("https://rawgit.com/WorldOfPop/theme/master/main.css");
+#footer #footer-user .info {
+    z-index: 0!important;
+}
